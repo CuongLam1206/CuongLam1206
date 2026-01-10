@@ -1,12 +1,5 @@
 # 👋 Hi there! I'm Lam Cuong
 
-<div align="center">
-  
-  ![AI Engineer](https://img.shields.io/badge/Future-AI%20Engineer-blue?style=for-the-badge)
-  ![Student](https://img.shields.io/badge/Student-Year%203-green?style=for-the-badge)
-  
-</div>
-
 ## 🎓 About Me
 
 I'm a **3rd-year** at **Hanoi University of Industry** with a strong passion for **Artificial Intelligence**. My goal is to become a professional **AI Engineer**, specializing in:
@@ -14,6 +7,12 @@ I'm a **3rd-year** at **Hanoi University of Industry** with a strong passion for
 - 🤖 **Generative AI (GenAI)**
 - 🧠 **Large Language Models (LLM)**
 - 📝 **Natural Language Processing (NLP)**
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&repeat=true&width=600&lines=Build%2C+break%2C+learn%2C+and+build+again)](https://git.io/typing-svg)
+
+</div>
 
 > *"Passionate about building intelligent systems that can understand and generate human language. Always learning, always growing!"*
 

@@ -1,11 +1,99 @@
+# 👋 Hi there! I'm Lam Cuong
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lamcuongghj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lamcuongghj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/l%C3%A2m-%C4%91%E1%BB%A9c-c%C6%B0%C6%A1ng-undefined-829884370/?trk=opento_sprofile_details) 
+<div align="center">
+  
+  ![AI Engineer](https://img.shields.io/badge/Future-AI%20Engineer-blue?style=for-the-badge)
+  ![Student](https://img.shields.io/badge/Student-Year%203-green?style=for-the-badge)
+  
+</div>
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=CuongLam1206&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CuongLam1206&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CuongLam1206&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🎓 About Me
 
+I'm a **3rd-year Computer Science student** at **Hanoi University of Industry** with a strong passion for **Artificial Intelligence**. My goal is to become a professional **AI Engineer**, specializing in:
+
+- 🤖 **Generative AI (GenAI)**
+- 🧠 **Large Language Models (LLM)**
+- 📝 **Natural Language Processing (NLP)**
+
+> *"Passionate about building intelligent systems that can understand and generate human language. Always learning, always growing!"*
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<div align="center">
+  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+</div>
+
+### AI/ML Frameworks
+<div align="center">
+  
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  
+</div>
+
+### Tools & Technologies
+<div align="center">
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamcuongghj&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamcuongghj&layout=compact&theme=radical&hide_border=true)
+  
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Lam Cuong"
+        self.role = "AI Engineering Student"
+        self.interests = ["GenAI", "LLM", "NLP"]
+        self.learning = ["Deep Learning", "Transformer Models", "Large Language Models"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = AIEngineer()
+me.say_hi()
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lamcuongghj)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lamcuongghj/)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 "The best way to predict the future is to create it." - Alan Kay
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=lamcuongghj&color=blueviolet&style=for-the-badge)
+  
+</div>

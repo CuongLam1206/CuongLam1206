@@ -63,7 +63,6 @@ I'm a **3rd-year** at **Hanoi University of Industry** with a strong passion for
   
 </div>
 
-> **Note:** Your GitHub stats will display automatically once you upload this README to your profile repository!
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-I'm a **3rd-year Computer Science student** at **Hanoi University of Industry** with a strong passion for **Artificial Intelligence**. My goal is to become a professional **AI Engineer**, specializing in:
+I'm a **3rd-year** at **Hanoi University of Industry** with a strong passion for **Artificial Intelligence**. My goal is to become a professional **AI Engineer**, specializing in:
 
 - 🤖 **Generative AI (GenAI)**
 - 🧠 **Large Language Models (LLM)**

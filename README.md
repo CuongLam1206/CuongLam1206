@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-I'm a **3rd-year** at **Hanoi University of Industry** with a strong passion for **Artificial Intelligence**. My goal is to become a professional **AI Engineer**, specializing in:
+I'm a **3rd-year Computer Science student** at **Hanoi University of Industry** with a strong passion for **Artificial Intelligence**. My goal is to become a professional **AI Engineer**, specializing in:
 
 - 🤖 **Generative AI (GenAI)**
 - 🧠 **Large Language Models (LLM)**
@@ -52,11 +52,17 @@ I'm a **3rd-year** at **Hanoi University of Industry** with a strong passion for
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamcuongghj&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamcuongghj&layout=compact&theme=radical&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CuongLam1206&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuongLam1206&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CuongLam1206&theme=tokyonight&hide_border=false)
+  
+</div>
+
 
 ---
 

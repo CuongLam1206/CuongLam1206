@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a **3rd-year** at **Hanoi University of Industry** with a strong passion for **Artificial Intelligence**. My goal is to become a professional **AI Engineer**, specializing in:
+I'm an **AI Engineer** passionate about **Artificial Intelligence**, specializing in **Generative AI, Computer Vision, NLP, and AI Agents**. My goal is to become a professional **AI Engineer**, specializing in:
 
 - 🤖 **Generative AI (GenAI)**
 - 🧠 **Large Language Models (LLM)**

@@ -1,12 +1,13 @@
-# 👋 Hi there! I'm Lam Cuong
+I'm an **AI Engineer** passionate about building **intelligent, scalable, and practical AI systems**. I enjoy turning research ideas into real-world applications and exploring how modern AI can solve complex problems.
 
-## 🎓 About Me
+My main areas of interest include:
 
-I'm an **AI Engineer** passionate about **Artificial Intelligence**, specializing in **Generative AI, Computer Vision, NLP, and AI Agents**. My goal is to become a professional **AI Engineer**, specializing in:
+- 🤖 **Generative AI & AI Agents** — building agentic workflows, RAG systems, and AI-powered applications
+- 🧠 **Large Language Models (LLMs)** — fine-tuning, prompting, inference, and LLM-based systems
+- 📝 **Natural Language Processing (NLP)** — developing intelligent language understanding and generation solutions
+- 🧩 **Multimodal AI** — combining language, vision, and generative models to build more capable AI systems
 
-- 🤖 **Generative AI (GenAI)**
-- 🧠 **Large Language Models (LLM)**
-- 📝 **Natural Language Processing (NLP)**
+> **My goal:** Build AI systems that are not only intelligent, but also **useful, reliable, and ready for the real world.**
 
 <div align="center">
   
